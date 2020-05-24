@@ -3,5 +3,3 @@ router bgp 100
  bgp log-neighbor-changes
  bgp update-delay 15
  redistribute connected
- neighbor 2.2.2.2 remote-as 200
- neighbor 3.3.3.3 remote-as 300
